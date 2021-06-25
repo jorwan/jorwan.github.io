@@ -1,0 +1,18 @@
+{
+    "projects": [
+        {
+            "title":"CAT FACTS",
+            "subtitle":"VIEW RANDOM PICTURES AND FACTS ABOUT CATS",
+            "description":"Flutter Mobile App that make a request to third-party api to get a cat picture and a request to another third-party api to get a cat fact.",
+            "repositoryUrl":"https://github.com/jorwan/cat-facts",
+            "previewUrl":"https://res.cloudinary.com/dufbnf0ov/image/upload/v1624586236/jorwan.github.io/preview_cat_fact.gif"
+        },
+        {
+            "title":"USER BOOK",
+            "subtitle":"XAMARIN ANDROID APP",
+            "description":"List of users with floating button that load a user real-time-validation-form to add new user to the list.",
+            "repositoryUrl":"https://github.com/jorwan/userbook",
+            "previewUrl":"https://res.cloudinary.com/dufbnf0ov/image/upload/v1624586292/jorwan.github.io/preview_user_book.gif"
+        }
+    ]
+}
